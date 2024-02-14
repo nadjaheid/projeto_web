@@ -1,3 +1,4 @@
 # web_project
 
-Projeto de um aplicativo de web
+Neste aplicativo, é possivel visualizar os dados de anúncios de veículos por meio de histograma e gráfico de dispersão.
+Basta clicar nas caixas de seleção.
