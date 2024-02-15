@@ -5,7 +5,7 @@ import numpy as np
 
 st.header('Anúncios de Veículos') 
      
-car_data = pd.read_csv("C:\\Users\\drclo\\OneDrive\\Documentos\\Bootcamp\\projeto_web\\vehicles.csv") # lendo os dados
+car_data = pd.read_csv("vehicles.csv") # lendo os dados
 hist_button = st.button('Criar histograma') # criar um botão
      
 if hist_button: # se o botão for clicado 
